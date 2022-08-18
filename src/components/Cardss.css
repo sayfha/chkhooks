@@ -1,0 +1,12 @@
+.hell{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+    }
+.war{
+    display: flex;
+    justify-content: center;
+    
+}
